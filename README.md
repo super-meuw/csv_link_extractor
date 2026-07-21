@@ -1,9 +1,3 @@
-```markdown
-# 🐱 CSV Link Extractor
-
-**Clean URL extraction from CSV files - nothing more, nothing less.**
-
-<div align="center">
 
 ```                                                                            
 
